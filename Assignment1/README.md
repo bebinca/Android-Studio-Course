@@ -24,7 +24,9 @@
 
 初始界面：
 
-<img src=".\Images\1.jpg" alt="1-w70" style="zoom:20%;" />
+![Images](https://github.com/bebinca/Android-Studio-Course/blob/master/Assignment1/Images/1.jpg)
+
+
 
 点击BUTTON，切换文本/图片：
 
