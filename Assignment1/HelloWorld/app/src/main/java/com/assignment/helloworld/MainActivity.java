@@ -10,6 +10,7 @@ import android.widget.TextView;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.ToggleButton;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     int [] image = new int []{
@@ -104,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
                 tv1.setText(text[i]);
                 iv1.setImageResource(image[i]);
                 if (i == 33) i = -1;
+                Log.d("MainActivity", "Button pressed");
             }
         });
 
@@ -113,11 +115,13 @@ public class MainActivity extends AppCompatActivity {
                     i = 0;
                     iv1.setImageResource(image[i]);
                     tv1.setText(text[i]);
+                    Log.d("MainActivity","toggleButtonSection1");
                 } else {
                     i = 33;
                     iv1.setImageResource(image[i]);
                     tv1.setText(text[i]);
                     i = -1;
+                    Log.d("MainActivity","toggleButtonSection2");
                 }
             }
         });
@@ -129,12 +133,14 @@ public class MainActivity extends AppCompatActivity {
                     toggleButton.setVisibility(View.GONE);
                     btn1.setVisibility(View.GONE);
                     tv1.setVisibility(View.GONE);
+                    Log.d("MainActivity","switchToHide");
 
                 } else {
                     iv1.setVisibility(View.VISIBLE);
                     toggleButton.setVisibility(View.VISIBLE);
                     btn1.setVisibility(View.VISIBLE);
                     tv1.setVisibility(View.VISIBLE);
+                    Log.d("MainActivity","switchToNotHide");
                 }
             }
         });

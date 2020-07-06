@@ -47,3 +47,7 @@
 点击图片右上的Switch，隐藏所有组件：
 
 <img src=".\Images\7.jpg" alt="1-w70" style="zoom:20%;" />
+
+开发过程的日志显示：
+
+<img src=".\Images\8.png" alt="1-w70" />
