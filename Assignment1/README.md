@@ -50,4 +50,4 @@
 
 开发过程的日志显示：
 
-<img src=".\Images\8.png"/>
+![8](.\Images\8.png)
