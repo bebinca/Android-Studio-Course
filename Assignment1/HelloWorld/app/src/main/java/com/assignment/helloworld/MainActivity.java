@@ -2,7 +2,6 @@ package com.assignment.helloworld;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -11,8 +10,6 @@ import android.widget.TextView;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.ToggleButton;
-import android.widget.VideoView;
-import android.widget.MediaController;
 
 public class MainActivity extends AppCompatActivity {
     int [] image = new int []{
@@ -98,7 +95,6 @@ public class MainActivity extends AppCompatActivity {
         final TextView tv1 = findViewById(R.id.tv1);
         final ImageView iv1 = findViewById(R.id.im1);
         final ToggleButton toggleButton = findViewById(R.id.toggleButton);
-//        final ToggleButton toggle = findViewById(R.id.toggle);
         final Switch switch1 = findViewById(R.id.switch1);
 
         btn1.setOnClickListener(new View.OnClickListener() {
