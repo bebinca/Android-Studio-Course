@@ -50,4 +50,4 @@
 
 开发过程的日志显示：
 
-<img src=".\Images\8.png" alt="1-w70" />
+<img src=".\Images\8.png"/>
