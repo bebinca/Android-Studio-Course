@@ -52,4 +52,4 @@
 
 开发过程的日志显示：
 
-![8](.\Images\8.png)
+![8](https://github.com/bebinca/Android-Studio-Course/blob/master/Assignment1/Images/8.jpg)
