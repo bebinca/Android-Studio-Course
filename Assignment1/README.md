@@ -1,5 +1,9 @@
 # Assignment1
 
+代码在HelloWorld文件夹中。
+
+由于Github对md文件中图片格式的显示问题，缩放没有办法正常显示，本readme在网页端的图片大小可能看起来过大。如果想要正常阅读，可以clone下来，在typora等软件上查看。
+
 ## View used
 
 `ImageView`：展示图片
