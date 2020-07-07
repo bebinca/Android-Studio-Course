@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Message1</string>
+    <string name="firstName">首页</string>
+    <string name="followName">关注</string>
+    <string name="addName">+</string>
+    <string name="messageName">消息</string>
+    <string name="personName">我</string>
+    <string name="contact">联系人</string>
+
+</resources>
