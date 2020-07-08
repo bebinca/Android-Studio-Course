@@ -24,7 +24,7 @@
 
 初始界面：
 
-![Images](https://github.com/bebinca/Android-Studio-Course/blob/master/Assignment1/Images/1.jpg)
+<img src=".\Images\1.jpg" alt="1-w70" style="zoom:20%;" />
 
 
 
@@ -52,4 +52,4 @@
 
 开发过程的日志显示：
 
-![Images](https://github.com/bebinca/Android-Studio-Course/blob/master/Assignment1/Images/8.png)
+<img src=".\Images\8.png"/>
