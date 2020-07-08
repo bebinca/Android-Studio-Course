@@ -31,30 +31,30 @@
 
 页面1：勾选复选框，`Lottie`动画自动循环播放
 
-<img src="./Images/1.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/1.jpg" alt="1-w70" style="zoom:20%;" />
 
 取消复选框，通过`SeekBar`手动调整动画进度
 
-<img src="./Images/2.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/2.jpg" alt="1-w70" style="zoom:20%;" />
 
-<img src="./Images/3.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/3.jpg" alt="1-w70" style="zoom:20%;" />
 
 页面2：实现大小缩放和透明度的变换动画
 
-<img src="./Images/4.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/4.jpg" alt="1-w70" style="zoom:20%;" />
 
-<img src="./Images/5.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/5.jpg" alt="1-w70" style="zoom:20%;" />
 
 页面3： 做一个简单版的好友列表界面，可滑动，对于好友列表 `Fragment`，使用`Lottie`实现Loading效果，在 5s 后展示实际的列表，要求这里的动效是淡入淡出
 
 可以看出淡入淡出效果：
 
-<img src="./Images/6.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/6.jpg" alt="1-w70" style="zoom:20%;" />
 
 好友消息列表：
 
-<img src="./Images/7.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/7.jpg" alt="1-w70" style="zoom:20%;" />
 
 loading动画：
 
-<img src="./Images/8.jpg" alt="1-w70" style="zoom:20%;" />
+<img src="D:/AS/Android-Studio-Course/Assignment3/Images/8.jpg" alt="1-w70" style="zoom:20%;" />
