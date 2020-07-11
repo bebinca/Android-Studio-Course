@@ -8,3 +8,5 @@ Course assignments here.
 *Homework3* https://github.com/bebinca/Android-Studio-Course/tree/master/Assignment3
 
 *Homework4* https://github.com/bebinca/Android-Studio-Course/tree/master/Assignment4
+
+*Homework5* https://github.com/bebinca/Android-Studio-Course/tree/master/Assignment5
