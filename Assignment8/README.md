@@ -1,6 +1,6 @@
 # Assignment8
 
-代码在VideoPlayer文件夹中。
+代码在selfVideo文件夹中。
 
 由于Github对md文件中图片格式的显示问题，缩放没有办法正常显示，本readme在网页端的图片大小可能看起来过大。可以clone下来，在其他软件上查看。
 
